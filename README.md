@@ -1,2 +1,1 @@
-# APLS3
-A bit about myself.
+Conflict solved 
